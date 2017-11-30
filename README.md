@@ -1,2 +1,2 @@
 # ProjectSet
-first game from the devlopment team form Liceo Ricci Curbastro
+first game from the development team from Liceo Ricci Curbastro,Lugo
